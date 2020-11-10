@@ -14,7 +14,7 @@ Solution 1:
 
 Solution 2:
 
-- Run Application as SpringBoot App
+- Run Application(com.maersk.test.MaerskTestApplication) as SpringBoot App
 - POST: localhost:8080/currency
 
 Request Body:
@@ -61,6 +61,6 @@ Solution 4:
 - Run com.maersk.test.solution4.Solution4Runner
 
 Solution 5:
-- Run Application as SpringBoot App
+- Run Application(com.maersk.test.MaerskTestApplication) as SpringBoot App
 
 
